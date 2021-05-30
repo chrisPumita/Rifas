@@ -1,0 +1,9 @@
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\bin\Debug\CONCURSO.exe.config
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\bin\Debug\CONCURSO.exe
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\bin\Debug\CONCURSO.pdb
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.csprojResolveAssemblyReference.cache
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.Form1.resources
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.Properties.Resources.resources
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.csproj.GenerateResource.Cache
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.exe
+c:\users\goril\documents\visual studio 2012\Projects\CONCURSO\CONCURSO\obj\Debug\CONCURSO.pdb
